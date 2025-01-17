@@ -25,5 +25,5 @@ The `esp8266_mqtt_led.ino` file:
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/xcv/iot.git
+   git clone https://github.com/elhamsha/iot.git
 
