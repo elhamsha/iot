@@ -6,9 +6,6 @@ This is a simple **HTML-based viewer** for displaying the live camera feed strea
 ![live_stream_viewer_screenshot](https://github.com/user-attachments/assets/d41b3080-2169-4c68-807d-443895801ea9)
 
 
-## 📁 Project Structure
-
-
 ## 🚀 Features
 
 - Displays **real-time camera feed** from cameras
