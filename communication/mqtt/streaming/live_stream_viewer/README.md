@@ -18,8 +18,8 @@ This is a simple **HTML-based viewer** for displaying the live camera feed strea
 ## 🛠 Setup & Usage
 
 1. Ensure your camera is streaming via **MQTT**.
-2. Open `index.html` in a browser.
-3. Enter the **MQTT broker details** if required.
+2. Update **MQTT broker details** if required.
+3. Open `index.html` in a browser.
 4. View the **live video feed**.
 
 ## 🌟 Requirements
