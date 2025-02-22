@@ -1,6 +1,6 @@
 # Live Stream Viewer
 
-This is a simple **HTML-based viewer** for displaying the live camera feed streamed from an **ESP32-CAM** over MQTT.
+This is a simple **HTML-based viewer** for displaying the live camera feed streamed from an **ESP32-CAM, webcam, ...** over MQTT.
 
 ## 📷 Live Stream Preview
 
@@ -11,20 +11,20 @@ This is a simple **HTML-based viewer** for displaying the live camera feed strea
 
 ## 🚀 Features
 
-- Displays **real-time camera feed** from the ESP32-CAM
+- Displays **real-time camera feed** from cameras
 - Works with **MQTT-based streaming**
 - Simple, lightweight, and easy to use
 
 ## 🛠 Setup & Usage
 
-1. Ensure your **ESP32-CAM** is streaming via **MQTT**.
+1. Ensure your camera is streaming via **MQTT**.
 2. Open `index.html` in a browser.
 3. Enter the **MQTT broker details** if required.
 4. View the **live video feed**.
 
 ## 🌟 Requirements
 
-- A working **ESP32-CAM MQTT streaming setup**
+- A working **MQTT streaming setup**
 - A compatible **web browser** (Chrome, Firefox, Edge, etc.)
 - A **local or public MQTT broker**
 
